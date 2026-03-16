@@ -1,6 +1,7 @@
 # **Java Automation Framework**
 
 **Project Overview**
+
 Java automation framework supporting UI, API, and integration testing.
 
 **Tech Stack**
@@ -16,17 +17,21 @@ Java automation framework supporting UI, API, and integration testing.
 - GitHub Actions or Jenkinsfile
 
 **Framework design**
+
 ...
 
 **How to run**
+
 Commands:
 - mvn clean test
 - mvn test -DsuiteXmlFile=src/test/resources/suites/smoke.xml
 
 **Reporting**
+
 ...
 
 **CI**
+
 ...
 
 **Future improvements**
