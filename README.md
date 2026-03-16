@@ -1,7 +1,7 @@
-Project overview
+# **Project overview**
 Java automation framework supporting UI, API, and integration testing.
 
-Test Stack
+**Test Stack**
 - Java 17
 - Maven
 - TestNG
@@ -13,20 +13,21 @@ Test Stack
 - Jackson or Gson
 - GitHub Actions or Jenkinsfile
 
-Framework design 
+**Framework design**
+...
 
-
-How to run
-Commands: 
+**How to run**
+Commands:
 - mvn clean test
 - mvn test -DsuiteXmlFile=src/test/resources/suites/smoke.xml
 
-Reporting
+**Reporting**
+...
 
+**CI**
+...
 
-CI
-
-Future improvements
-- Docker grid support 
+**Future improvements**
+- Docker grid support
 - parallel browser execution
 - environment profiles
