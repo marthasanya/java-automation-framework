@@ -1,4 +1,4 @@
-package src.test.java.listeners;
+package listeners;
 
 public class TestListener {
     

@@ -1,4 +1,4 @@
-package src.main.java.base;
+package base;
 
 public class BasePage {
     

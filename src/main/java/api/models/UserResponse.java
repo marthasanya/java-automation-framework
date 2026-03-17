@@ -1,4 +1,4 @@
-package src.main.java.api.models;
+package api.models;
 
 public class UserResponse {
     

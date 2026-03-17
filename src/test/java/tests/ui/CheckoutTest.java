@@ -1,4 +1,4 @@
-package src.test.java.tests.ui;
+package tests.ui;
 
 public class CheckoutTest {
     

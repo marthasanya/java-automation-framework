@@ -1,4 +1,4 @@
-package src.main.java.api.endpoints;
+package api.endpoints;
 
 public class UserEndpoints {
     

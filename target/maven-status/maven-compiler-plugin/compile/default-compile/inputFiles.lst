@@ -1,0 +1,15 @@
+/Users/marthasanya/Documents/FullStackDevelopment/Backend JavaAutomation/java-automation-framework/src/main/java/api/client/ApiClient.java
+/Users/marthasanya/Documents/FullStackDevelopment/Backend JavaAutomation/java-automation-framework/src/main/java/api/endpoints/UserEndpoints.java
+/Users/marthasanya/Documents/FullStackDevelopment/Backend JavaAutomation/java-automation-framework/src/main/java/api/models/UserRequest.java
+/Users/marthasanya/Documents/FullStackDevelopment/Backend JavaAutomation/java-automation-framework/src/main/java/api/models/UserResponse.java
+/Users/marthasanya/Documents/FullStackDevelopment/Backend JavaAutomation/java-automation-framework/src/main/java/api/utils/ApiUtils.java
+/Users/marthasanya/Documents/FullStackDevelopment/Backend JavaAutomation/java-automation-framework/src/main/java/base/BaseApiTest.java
+/Users/marthasanya/Documents/FullStackDevelopment/Backend JavaAutomation/java-automation-framework/src/main/java/base/BasePage.java
+/Users/marthasanya/Documents/FullStackDevelopment/Backend JavaAutomation/java-automation-framework/src/main/java/base/BaseTest.java
+/Users/marthasanya/Documents/FullStackDevelopment/Backend JavaAutomation/java-automation-framework/src/main/java/config/ConfigReader.java
+/Users/marthasanya/Documents/FullStackDevelopment/Backend JavaAutomation/java-automation-framework/src/main/java/config/DriverFactory.java
+/Users/marthasanya/Documents/FullStackDevelopment/Backend JavaAutomation/java-automation-framework/src/main/java/constants/FrameworkConstants.java
+/Users/marthasanya/Documents/FullStackDevelopment/Backend JavaAutomation/java-automation-framework/src/main/java/pages/CartPage.java
+/Users/marthasanya/Documents/FullStackDevelopment/Backend JavaAutomation/java-automation-framework/src/main/java/pages/HomePage.java
+/Users/marthasanya/Documents/FullStackDevelopment/Backend JavaAutomation/java-automation-framework/src/main/java/pages/LoginPage.java
+/Users/marthasanya/Documents/FullStackDevelopment/Backend JavaAutomation/java-automation-framework/src/main/java/pages/ProductPage.java

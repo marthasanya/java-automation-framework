@@ -1,4 +1,4 @@
-package src.main.java.config;
+package config;
 
 public class ConfigReader {
     

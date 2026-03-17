@@ -1,4 +1,4 @@
-package  src.test.java.tests.api;
+package  tests.api;
 
 public class GetUserTest {
     

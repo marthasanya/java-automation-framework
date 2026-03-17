@@ -1,4 +1,4 @@
-package src.main.java.constants;
+package constants;
 
 public class FrameworkConstants {
     

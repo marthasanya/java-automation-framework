@@ -1,4 +1,4 @@
-package src.test.java.tests.integration;
+package tests.integration;
 
 public class UserCreationFlowTest {
     

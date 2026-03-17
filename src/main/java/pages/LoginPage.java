@@ -1,4 +1,4 @@
-package src.main.java.pages;
+package pages;
 
 public class LoginPage {
     

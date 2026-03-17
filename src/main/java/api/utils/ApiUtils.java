@@ -1,4 +1,4 @@
-package src.main.java.api.utils;
+package api.utils;
 
 public class ApiUtils {
     
